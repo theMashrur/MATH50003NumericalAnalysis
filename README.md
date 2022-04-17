@@ -1,5 +1,6 @@
 # MATH50003NumericalAnalysis
-Notes and course material for MATH50003 Numerical Analysis
+Notes and course material for MATH50003 Numerical Analysis at Imperial College London.
+Fork for Mashrur Khondokar's work in Numerical Analysis
 
 Lecturer: [Dr Sheehan Olver](https://www.ma.imperial.ac.uk/~solver/)
 
